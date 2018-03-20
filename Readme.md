@@ -11,7 +11,7 @@ Just testing curlpp and json parser in c++.
 
 1. Set up your API key in [OpenWeather](http://openweathermap.org/api)
 
-2. Add a file `api\_key.h` in include with a `#define API_KEY "blahblahblah"` inside it
+2. Add a file `api_key.h` in include with a `#define API_KEY "blahblahblah"` inside it
 
 3. `cd build`
 
