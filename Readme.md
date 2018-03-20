@@ -13,9 +13,11 @@ Just testing curlpp and json parser in c++.
 
 2. Add a file `api_key.h` in include with a `#define API_KEY "blahblahblah"` inside it
 
-3. `cd build`
+3. `mkdir build && cd build`
 
-4. `make`
+4. `cmake ..`
+
+5. `make`
 
 # Run instructions
 
